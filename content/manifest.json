@@ -1,0 +1,96 @@
+{
+  "season": 1,
+  "chapters": [
+    {
+      "id": "01",
+      "title": "Ein Kaffee für dich",
+      "filename": "season-01/01.txt",
+      "order": 1,
+      "status": "missing"
+    },
+    {
+      "id": "02",
+      "title": "Nur noch fünf Minuten",
+      "filename": "season-01/02.txt",
+      "order": 2,
+      "status": "missing"
+    },
+    {
+      "id": "03",
+      "title": "Ein Kuss in der Küche",
+      "filename": "season-01/03.txt",
+      "order": 3,
+      "status": "missing"
+    },
+    {
+      "id": "04",
+      "title": "Bleib noch ein bisschen",
+      "filename": "season-01/04.txt",
+      "order": 4,
+      "status": "missing"
+    },
+    {
+      "id": "05",
+      "title": "Guten Morgen, Liebling",
+      "filename": "season-01/05.txt",
+      "order": 5,
+      "status": "missing"
+    },
+    {
+      "id": "06",
+      "title": "Ein kleiner Streit",
+      "filename": "season-01/06.txt",
+      "order": 6,
+      "status": "missing"
+    },
+    {
+      "id": "07",
+      "title": "Ich vermisse dich",
+      "filename": "season-01/07.txt",
+      "order": 7,
+      "status": "missing"
+    },
+    {
+      "id": "08",
+      "title": "Ein Sonntag zu zweit",
+      "filename": "season-01/08.txt",
+      "order": 8,
+      "status": "missing"
+    },
+    {
+      "id": "09",
+      "title": null,
+      "filename": "season-01/09.txt",
+      "order": 9,
+      "status": "missing"
+    },
+    {
+      "id": "10",
+      "title": null,
+      "filename": "season-01/10.txt",
+      "order": 10,
+      "status": "missing"
+    },
+    {
+      "id": "11",
+      "title": null,
+      "filename": "season-01/11.txt",
+      "order": 11,
+      "status": "missing"
+    },
+    {
+      "id": "12",
+      "title": "Zwei Herzen, ein Zuhause",
+      "filename": "season-01/12.txt",
+      "order": 12,
+      "status": "missing"
+    },
+    {
+      "id": "epilogue",
+      "title": null,
+      "filename": "season-01/epilogue.txt",
+      "order": 13,
+      "status": "missing"
+    }
+  ]
+}
