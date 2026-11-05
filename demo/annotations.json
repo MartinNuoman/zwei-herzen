@@ -1,0 +1,26 @@
+{
+  "chapterId": "demo",
+  "vocabulary": [
+    {
+      "paragraph": 2,
+      "anchor": "Fenster",
+      "occurrence": 1,
+      "zh": "窗户",
+      "en": "window",
+      "example": "Das Fenster ist offen."
+    },
+    {
+      "paragraph": 3,
+      "anchor": "Auf dem Tisch",
+      "occurrence": 1,
+      "zh": "在桌子上",
+      "en": "on the table"
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "示例中：静态位置的 auf dem Tisch 使用第三格。",
+      "en": "In this example, the static location auf dem Tisch uses the dative."
+    }
+  ]
+}
