@@ -5,3 +5,5 @@ CODEX_PROMPT.txt
 STORY_SOURCE_STATUS.txt
 ALL_IN_ONE_FOR_CODEX.txt
 __pycache__/
+source-archive/
+GitHub_Release.zip
