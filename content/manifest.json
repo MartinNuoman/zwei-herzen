@@ -6,91 +6,104 @@
       "title": "Ein Kaffee für dich",
       "filename": "season-01/01.txt",
       "order": 1,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd"
     },
     {
       "id": "02",
       "title": "Nur noch fünf Minuten",
       "filename": "season-01/02.txt",
       "order": 2,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd"
     },
     {
       "id": "03",
       "title": "Ein Kuss in der Küche",
       "filename": "season-01/03.txt",
       "order": 3,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd"
     },
     {
       "id": "04",
       "title": "Bleib noch ein bisschen",
       "filename": "season-01/04.txt",
       "order": 4,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd"
     },
     {
       "id": "05",
       "title": "Guten Morgen, Liebling",
       "filename": "season-01/05.txt",
       "order": 5,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd"
     },
     {
       "id": "06",
       "title": "Ein kleiner Streit",
       "filename": "season-01/06.txt",
       "order": 6,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd"
     },
     {
       "id": "07",
       "title": "Ich vermisse dich",
       "filename": "season-01/07.txt",
       "order": 7,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed17f8-7d08-83ed-85ba-a3ed47544db4"
     },
     {
       "id": "08",
       "title": "Ein Sonntag zu zweit",
       "filename": "season-01/08.txt",
       "order": 8,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed17f8-7d08-83ed-85ba-a3ed47544db4"
     },
     {
       "id": "09",
-      "title": null,
+      "title": "Eine kleine Überraschung",
       "filename": "season-01/09.txt",
       "order": 9,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed1886-8790-83ed-8552-9a5940b1666a"
     },
     {
       "id": "10",
-      "title": null,
+      "title": "Unser erstes Zuhause",
       "filename": "season-01/10.txt",
       "order": 10,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed1886-8790-83ed-8552-9a5940b1666a"
     },
     {
       "id": "11",
-      "title": null,
+      "title": "Besuch von den Eltern",
       "filename": "season-01/11.txt",
       "order": 11,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed1886-8790-83ed-8552-9a5940b1666a"
     },
     {
       "id": "12",
       "title": "Zwei Herzen, ein Zuhause",
       "filename": "season-01/12.txt",
       "order": 12,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed1886-8790-83ed-8552-9a5940b1666a"
     },
     {
       "id": "epilogue",
-      "title": null,
+      "title": "Epilog",
       "filename": "season-01/epilogue.txt",
       "order": 13,
-      "status": "missing"
+      "status": "available",
+      "source": "https://chatgpt.com/share/6aed1886-8790-83ed-8552-9a5940b1666a"
     }
   ]
 }
