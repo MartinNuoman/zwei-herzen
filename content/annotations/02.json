@@ -1,0 +1,123 @@
+{
+  "chapterId": "02",
+  "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd",
+  "vocabulary": [
+    {
+      "paragraph": 37,
+      "anchor": "traurig",
+      "occurrence": 1,
+      "zh": "难过的",
+      "term": "traurig",
+      "example": "Bist du traurig?"
+    },
+    {
+      "paragraph": 54,
+      "anchor": "verbringen",
+      "occurrence": 1,
+      "zh": "度过（时间）",
+      "term": "verbringen",
+      "example": "Ich möchte Zeit mit dir verbringen."
+    },
+    {
+      "paragraph": 75,
+      "anchor": "egal",
+      "occurrence": 1,
+      "zh": "无所谓；不重要",
+      "term": "egal",
+      "example": "Das ist mir egal."
+    },
+    {
+      "paragraph": 61,
+      "anchor": "öffnen",
+      "occurrence": 1,
+      "zh": "打开",
+      "term": "sich öffnen",
+      "example": "Die Türen öffnen sich."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "今天的词汇小收藏\n\n10 个 A1–B1 单词\n\nschon\n\nvergessen\n\nnehmen\n\ntraurig\n\n难过的\n\nBist du traurig?\n\nlügen\n\n撒谎\n\nDu lügst!\n\nverbringen\n\n度过（时间）\n\nIch möchte Zeit mit dir verbringen.\n\negal\n\n无所谓；不重要\n\nDas ist mir egal.\n\nunordentlich\n\nsich öffnen\n\n打开\n\nDie Türen öffnen sich.\n\nmitkommen\n\n跟着一起来\n\nDann komm mit.\n\n小小阅读测试\n\n1. Max 为什么没有坐上第一班电车？\n\nRichtig! 答对啦\n\nIch möchte noch fünf Minuten mit dir verbringen.\n\n2. „Das ist mir egal.“ 在这里是什么意思？\n\nRichtig! 答对啦\n\nMax 不介意 Leon 的房间小，也不介意他不太会做饭。\n\n3. „Dann komm mit.“ 是什么语气？\n\nRichtig! 答对啦\n\nmitkommen 是可分动词，命令式中说 Komm mit!"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "schon",
+      "sourceText": "schon"
+    },
+    {
+      "term": "vergessen",
+      "sourceText": "vergessen"
+    },
+    {
+      "term": "nehmen",
+      "sourceText": "nehmen"
+    },
+    {
+      "term": "traurig",
+      "sourceText": "traurig\n\n难过的\n\nBist du traurig?",
+      "zh": "难过的",
+      "example": "Bist du traurig?"
+    },
+    {
+      "term": "lügen",
+      "sourceText": "lügen\n\n撒谎\n\nDu lügst!",
+      "zh": "撒谎",
+      "example": "Du lügst!"
+    },
+    {
+      "term": "verbringen",
+      "sourceText": "verbringen\n\n度过（时间）\n\nIch möchte Zeit mit dir verbringen.",
+      "zh": "度过（时间）",
+      "example": "Ich möchte Zeit mit dir verbringen."
+    },
+    {
+      "term": "egal",
+      "sourceText": "egal\n\n无所谓；不重要\n\nDas ist mir egal.",
+      "zh": "无所谓；不重要",
+      "example": "Das ist mir egal."
+    },
+    {
+      "term": "unordentlich",
+      "sourceText": "unordentlich"
+    },
+    {
+      "term": "sich öffnen",
+      "sourceText": "sich öffnen\n\n打开\n\nDie Türen öffnen sich.",
+      "zh": "打开",
+      "example": "Die Türen öffnen sich."
+    },
+    {
+      "term": "mitkommen",
+      "sourceText": "mitkommen\n\n跟着一起来\n\nDann komm mit.",
+      "zh": "跟着一起来",
+      "example": "Dann komm mit."
+    }
+  ],
+  "unanchored": [
+    {
+      "term": "schon",
+      "reason": "Definition not exposed in supplied shared page"
+    },
+    {
+      "term": "vergessen",
+      "reason": "Definition not exposed in supplied shared page"
+    },
+    {
+      "term": "nehmen",
+      "reason": "Definition not exposed in supplied shared page"
+    },
+    {
+      "term": "lügen",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "unordentlich",
+      "reason": "Definition not exposed in supplied shared page"
+    },
+    {
+      "term": "mitkommen",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    }
+  ]
+}

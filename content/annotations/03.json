@@ -1,0 +1,179 @@
+{
+  "chapterId": "03",
+  "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd",
+  "vocabulary": [
+    {
+      "paragraph": 5,
+      "anchor": "gemütlich",
+      "occurrence": 1,
+      "zh": "舒适温馨的",
+      "term": "gemütlich",
+      "example": "Deine Wohnung ist gemütlich."
+    },
+    {
+      "paragraph": 30,
+      "anchor": "Vertrau",
+      "occurrence": 1,
+      "zh": "信任",
+      "term": "vertrauen",
+      "example": "Vertrau mir!"
+    },
+    {
+      "paragraph": 45,
+      "anchor": "selbstbewusst",
+      "occurrence": 1,
+      "zh": "自信的",
+      "term": "selbstbewusst",
+      "example": "Du bist sehr selbstbewusst."
+    },
+    {
+      "paragraph": 53,
+      "anchor": "Schmeckt",
+      "occurrence": 1,
+      "zh": "尝起来好吃",
+      "term": "schmecken",
+      "example": "Schmeckt es dir?"
+    },
+    {
+      "paragraph": 65,
+      "anchor": "peinlich",
+      "occurrence": 1,
+      "zh": "尴尬的",
+      "term": "peinlich",
+      "example": "Wie peinlich!"
+    },
+    {
+      "paragraph": 67,
+      "anchor": "retten",
+      "occurrence": 1,
+      "zh": "挽救",
+      "term": "retten",
+      "example": "Wir können das retten."
+    },
+    {
+      "paragraph": 95,
+      "anchor": "küssen",
+      "occurrence": 1,
+      "zh": "亲吻",
+      "term": "küssen",
+      "example": "Darf ich dich küssen?"
+    },
+    {
+      "paragraph": 98,
+      "anchor": "flüstert",
+      "occurrence": 1,
+      "zh": "低声说",
+      "term": "flüstern",
+      "example": "Ja, flüstert er."
+    },
+    {
+      "paragraph": 129,
+      "anchor": "trotzdem",
+      "occurrence": 1,
+      "zh": "尽管如此、仍然",
+      "term": "trotzdem",
+      "example": "Es war trotzdem schön."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "今天的德语词汇\n\n13 个 A1–B1 词汇\n\ngemütlich\n\n舒适温馨的\n\nDeine Wohnung ist gemütlich.\n\ngefallen\n\n使某人喜欢\n\nSie gefällt mir.\n\nvertrauen\n\n信任\n\nVertrau mir!\n\nselbstbewusst\n\n自信的\n\nDu bist sehr selbstbewusst.\n\nschmecken\n\n尝起来好吃\n\nSchmeckt es dir?\n\nvergessen\n\npeinlich\n\n尴尬的\n\nWie peinlich!\n\nretten\n\n挽救\n\nWir können das retten.\n\nküssen\n\n亲吻\n\nDarf ich dich küssen?\n\nflüstern\n\n低声说\n\nJa, flüstert er.\n\ntrotzdem\n\n尽管如此、仍然\n\nEs war trotzdem schön.\n\nversprechen\n\n承诺\n\nVersprochen!\n\naufpassen auf\n\n照顾；留意\n\nIch passe gut darauf auf.\n\n一个很值得记住的 B1 句型\n\nObwohl …, …（虽然……但是……）\n\n例如：\n\nObwohl Max das Salz vergessen hat, war das Abendessen schön.\n\n虽然 Max 忘记放盐了，但晚餐依然很美好。\n\n注意，obwohl 引导的从句中，动词 hat 要放在句尾。"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "gemütlich",
+      "sourceText": "gemütlich\n\n舒适温馨的\n\nDeine Wohnung ist gemütlich.",
+      "zh": "舒适温馨的",
+      "example": "Deine Wohnung ist gemütlich."
+    },
+    {
+      "term": "gefallen",
+      "sourceText": "gefallen\n\n使某人喜欢\n\nSie gefällt mir.",
+      "zh": "使某人喜欢",
+      "example": "Sie gefällt mir."
+    },
+    {
+      "term": "vertrauen",
+      "sourceText": "vertrauen\n\n信任\n\nVertrau mir!",
+      "zh": "信任",
+      "example": "Vertrau mir!"
+    },
+    {
+      "term": "selbstbewusst",
+      "sourceText": "selbstbewusst\n\n自信的\n\nDu bist sehr selbstbewusst.",
+      "zh": "自信的",
+      "example": "Du bist sehr selbstbewusst."
+    },
+    {
+      "term": "schmecken",
+      "sourceText": "schmecken\n\n尝起来好吃\n\nSchmeckt es dir?",
+      "zh": "尝起来好吃",
+      "example": "Schmeckt es dir?"
+    },
+    {
+      "term": "vergessen",
+      "sourceText": "vergessen"
+    },
+    {
+      "term": "peinlich",
+      "sourceText": "peinlich\n\n尴尬的\n\nWie peinlich!",
+      "zh": "尴尬的",
+      "example": "Wie peinlich!"
+    },
+    {
+      "term": "retten",
+      "sourceText": "retten\n\n挽救\n\nWir können das retten.",
+      "zh": "挽救",
+      "example": "Wir können das retten."
+    },
+    {
+      "term": "küssen",
+      "sourceText": "küssen\n\n亲吻\n\nDarf ich dich küssen?",
+      "zh": "亲吻",
+      "example": "Darf ich dich küssen?"
+    },
+    {
+      "term": "flüstern",
+      "sourceText": "flüstern\n\n低声说\n\nJa, flüstert er.",
+      "zh": "低声说",
+      "example": "Ja, flüstert er."
+    },
+    {
+      "term": "trotzdem",
+      "sourceText": "trotzdem\n\n尽管如此、仍然\n\nEs war trotzdem schön.",
+      "zh": "尽管如此、仍然",
+      "example": "Es war trotzdem schön."
+    },
+    {
+      "term": "versprechen",
+      "sourceText": "versprechen\n\n承诺\n\nVersprochen!",
+      "zh": "承诺",
+      "example": "Versprochen!"
+    },
+    {
+      "term": "aufpassen auf",
+      "sourceText": "aufpassen auf\n\n照顾；留意\n\nIch passe gut darauf auf.",
+      "zh": "照顾；留意",
+      "example": "Ich passe gut darauf auf."
+    }
+  ],
+  "unanchored": [
+    {
+      "term": "gefallen",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "vergessen",
+      "reason": "Definition not exposed in supplied shared page"
+    },
+    {
+      "term": "versprechen",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "aufpassen auf",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "chapterId": "07",
+  "source": "https://chatgpt.com/share/6aed17f8-7d08-83ed-85ba-a3ed47544db4",
+  "vocabulary": [
+    {
+      "paragraph": 46,
+      "anchor": "Ich vermisse dich.",
+      "occurrence": 1,
+      "zh": "我想你了。",
+      "term": "Ich vermisse dich."
+    },
+    {
+      "paragraph": 56,
+      "anchor": "Darf ich vorbeikommen?",
+      "occurrence": 1,
+      "zh": "我可以过来吗？",
+      "term": "Darf ich vorbeikommen?"
+    },
+    {
+      "paragraph": 50,
+      "anchor": "das ist schon viel zu lange her.",
+      "occurrence": 1,
+      "zh": "那已经是太久以前的事了。",
+      "term": "Das ist schon viel zu lange her."
+    },
+    {
+      "paragraph": 71,
+      "anchor": "Das hatte ich sowieso vor.",
+      "occurrence": 1,
+      "zh": "我本来就是这么打算的。",
+      "term": "Das hatte ich sowieso vor."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "Heute lernen wir ein bisschen Deutsch\n\nIch vermisse dich.\n\n我想你了。\n\nEs tut mir leid.\n\nDarf ich vorbeikommen?\n\n我可以过来吗？\n\nIch wollte dich nicht verletzen.\n\n我本来不想伤害你。\n\nDas ist schon viel zu lange her.\n\n那已经是太久以前的事了。\n\nDas hatte ich sowieso vor.\n\n我本来就是这么打算的。\n\nEine kleine Frage für dich\n\n我们来做一个简单的阅读理解，不用回去找答案哦。\n\nWarum ist Max nass?\n\nRichtig! Es regnet, und Max kommt trotzdem zu Leon. ❤️\n\nIch vermisse dich.\n\n我想你了。\n\nvermissen + Akkusativ\n\nEs tut mir leid.\n\n点击查看中文和语法\n\nDarf ich vorbeikommen?\n\n我可以过来吗？\n\ndürfen + 可分动词 vorbeikommen\n\nIch wollte dich nicht verletzen.\n\n我本来不想伤害你。\n\nwollte 是 wollen 的过去式\n\nDas ist schon viel zu lange her.\n\n那已经是太久以前的事了。\n\nher 表示距今过去了多久\n\nDas hatte ich sowieso vor.\n\n我本来就是这么打算的。\n\nvorhaben = 打算；sowieso = 反正、本来就"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ich vermisse dich.",
+      "sourceText": "Ich vermisse dich.\n\n我想你了。\n\nvermissen + Akkusativ",
+      "zh": "我想你了。"
+    },
+    {
+      "term": "Es tut mir leid.",
+      "sourceText": "Es tut mir leid.\n\n点击查看中文和语法"
+    },
+    {
+      "term": "Darf ich vorbeikommen?",
+      "sourceText": "Darf ich vorbeikommen?\n\n我可以过来吗？\n\ndürfen + 可分动词 vorbeikommen",
+      "zh": "我可以过来吗？"
+    },
+    {
+      "term": "Ich wollte dich nicht verletzen.",
+      "sourceText": "Ich wollte dich nicht verletzen.\n\n我本来不想伤害你。\n\nwollte 是 wollen 的过去式",
+      "zh": "我本来不想伤害你。"
+    },
+    {
+      "term": "Das ist schon viel zu lange her.",
+      "sourceText": "Das ist schon viel zu lange her.\n\n那已经是太久以前的事了。\n\nher 表示距今过去了多久",
+      "zh": "那已经是太久以前的事了。"
+    },
+    {
+      "term": "Das hatte ich sowieso vor.",
+      "sourceText": "Das hatte ich sowieso vor.\n\n我本来就是这么打算的。\n\nvorhaben = 打算；sowieso = 反正、本来就",
+      "zh": "我本来就是这么打算的。"
+    }
+  ],
+  "unanchored": [
+    {
+      "term": "Es tut mir leid.",
+      "reason": "Definition not exposed in supplied shared page"
+    },
+    {
+      "term": "Ich wollte dich nicht verletzen.",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    }
+  ]
+}

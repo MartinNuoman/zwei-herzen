@@ -1,0 +1,138 @@
+{
+  "chapterId": "05",
+  "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd",
+  "vocabulary": [
+    {
+      "paragraph": 16,
+      "anchor": "Leider",
+      "occurrence": 1,
+      "zh": "可惜；遗憾的是",
+      "term": "leider"
+    },
+    {
+      "paragraph": 35,
+      "anchor": "Rührei",
+      "occurrence": 1,
+      "zh": "炒鸡蛋",
+      "term": "das Rührei"
+    },
+    {
+      "paragraph": 48,
+      "anchor": "Unterschied",
+      "occurrence": 1,
+      "zh": "区别",
+      "term": "der Unterschied"
+    },
+    {
+      "paragraph": 76,
+      "anchor": "Die Hälfte",
+      "occurrence": 1,
+      "zh": "一半",
+      "term": "die Hälfte"
+    },
+    {
+      "paragraph": 88,
+      "anchor": "teilst",
+      "occurrence": 1,
+      "zh": "分享；分开",
+      "term": "teilen"
+    },
+    {
+      "paragraph": 153,
+      "anchor": "festhalten",
+      "occurrence": 1,
+      "zh": "抱紧；抓住",
+      "term": "festhalten"
+    },
+    {
+      "paragraph": 173,
+      "anchor": "vermisse",
+      "occurrence": 1,
+      "zh": "想念",
+      "term": "vermissen"
+    },
+    {
+      "paragraph": 180,
+      "anchor": "verliebe",
+      "occurrence": 1,
+      "zh": "爱上某人",
+      "term": "sich verlieben"
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "今天的重点词汇\n\n11 个值得积累的词\n\ndie Decke\n\n被子；毯子\n\nleider\n\n可惜；遗憾的是\n\ndas Rührei\n\n炒鸡蛋\n\nder Unterschied\n\n区别\n\ndie Hälfte\n\n一半\n\nteilen\n\n分享；分开\n\nvorhaben\n\n打算；有计划\n\nvorausplanen\n\n提前计划\n\nfesthalten\n\n抱紧；抓住\n\nvermissen\n\n想念\n\nsich verlieben\n\n爱上某人\n\n今天的 B1 语法：sich verlieben in + Akkusativ\n\nIch verliebe mich in dich.\n\n我正在爱上你。\n\n这里的 sich verlieben 是反身动词：\n\nIch verliebe mich in dich.\n\nDu verliebst dich in mich.\n\nEr verliebt sich in ihn.\n\n注意，它和 lieben 不一样：\n\nIch liebe dich. — 我爱你。\n\nIch habe mich in dich verliebt. — 我爱上你了。\n\n第二句强调从没有恋爱感情到产生爱意的过程。\n\ndie Decke\n\nA2\n\n被子；毯子\n\nleider\n\nA1\n\n可惜；遗憾的是\n\ndas Rührei\n\nA2\n\n炒鸡蛋\n\nder Unterschied\n\nA2\n\n区别\n\ndie Hälfte\n\nA2\n\n一半\n\nteilen\n\nA2\n\n分享；分开\n\nvorhaben\n\nB1\n\n打算；有计划\n\nvorausplanen\n\nB1\n\n提前计划\n\nfesthalten\n\nB1\n\n抱紧；抓住\n\nvermissen\n\nA2\n\n想念\n\nsich verlieben\n\nB1\n\n爱上某人"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "die Decke",
+      "sourceText": "die Decke\n\nA2\n\n被子；毯子",
+      "zh": "被子；毯子"
+    },
+    {
+      "term": "leider",
+      "sourceText": "leider\n\nA1\n\n可惜；遗憾的是",
+      "zh": "可惜；遗憾的是"
+    },
+    {
+      "term": "das Rührei",
+      "sourceText": "das Rührei\n\nA2\n\n炒鸡蛋",
+      "zh": "炒鸡蛋"
+    },
+    {
+      "term": "der Unterschied",
+      "sourceText": "der Unterschied\n\nA2\n\n区别",
+      "zh": "区别"
+    },
+    {
+      "term": "die Hälfte",
+      "sourceText": "die Hälfte\n\nA2\n\n一半",
+      "zh": "一半"
+    },
+    {
+      "term": "teilen",
+      "sourceText": "teilen\n\nA2\n\n分享；分开",
+      "zh": "分享；分开"
+    },
+    {
+      "term": "vorhaben",
+      "sourceText": "vorhaben\n\nB1\n\n打算；有计划",
+      "zh": "打算；有计划"
+    },
+    {
+      "term": "vorausplanen",
+      "sourceText": "vorausplanen\n\nB1\n\n提前计划",
+      "zh": "提前计划"
+    },
+    {
+      "term": "festhalten",
+      "sourceText": "festhalten\n\nB1\n\n抱紧；抓住",
+      "zh": "抱紧；抓住"
+    },
+    {
+      "term": "vermissen",
+      "sourceText": "vermissen\n\nA2\n\n想念",
+      "zh": "想念"
+    },
+    {
+      "term": "sich verlieben",
+      "sourceText": "sich verlieben\n\nB1\n\n爱上某人",
+      "zh": "爱上某人"
+    }
+  ],
+  "unanchored": [
+    {
+      "term": "die Decke",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "vorhaben",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "vorausplanen",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    }
+  ]
+}

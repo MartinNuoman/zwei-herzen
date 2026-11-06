@@ -1,0 +1,84 @@
+{
+  "chapterId": "04",
+  "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd",
+  "vocabulary": [
+    {
+      "paragraph": 12,
+      "anchor": "Ich habe etwas für dich mitgebracht.",
+      "occurrence": 1,
+      "zh": "我给你带了点东西。",
+      "term": "Ich habe etwas für dich mitgebracht."
+    },
+    {
+      "paragraph": 17,
+      "anchor": "Ich höre dir doch zu.",
+      "occurrence": 1,
+      "zh": "我当然有认真听你说话呀。",
+      "term": "Ich höre dir doch zu."
+    },
+    {
+      "paragraph": 82,
+      "anchor": "Bist du sicher?",
+      "occurrence": 1,
+      "zh": "你确定吗？",
+      "term": "Bist du sicher?"
+    },
+    {
+      "paragraph": 145,
+      "anchor": "Sag es noch einmal.",
+      "occurrence": 1,
+      "zh": "再说一遍嘛。",
+      "term": "Sag es noch einmal."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "本章最值得记住的 6 个表达\n\n德语 | 中文\nIch habe etwas für dich mitgebracht. | 我给你带了点东西。\nIch höre dir doch zu. | 我当然有认真听你说话呀。\nDie Bahn fällt aus. | 电车停运了。\nBist du sicher? | 你确定吗？\nDarf ich näher kommen? | 我可以靠近一点吗？\nSag es noch einmal. | 再说一遍嘛。\n\n今天还有一个很实用的 B1 结构：\n\nWeil ich wollte, dass du mich noch ein bisschen anschaust.\n\n这里 dass 引导宾语从句，anschaust 放在句尾；整个 weil 从句的动词 wollte 也放在末尾。"
+    },
+    {
+      "zh": "anschaust 来自德语可分动词 anschauen，意思是「看、注视、观看」。\n\n1. 动词变位\n\nanschauen = an + schauen\n\n人称\n\n\t\n\n变位\n\n\n\n\nich\n\n\t\n\nschaue ... an\n\n\n\n\ndu\n\n\t\n\nschaust ... an\n\n\n\n\ner/sie/es\n\n\t\n\nschaut ... an\n\n\n\n\nwir\n\n\t\n\nschauen ... an\n\n例如：\n\nIch schaue dich an.\n我看着你。\n\nWarum schaust du mich an?\n你为什么看着我？\n\n2. 为什么故事里是 anschaust？\n\n原句：\n\nWeil ich wollte, dass du mich noch ein bisschen anschaust.\n\n因为我想让你再多看我一会儿。❤️\n\n这里有一个 B1 很重要的语法：\n\ndass 引导从句，变位动词放在句尾。\n\n对比一下：\n\n主句：Du schaust mich an.\n\ndass 从句：..., dass du mich anschaust.\n\n在从句里，可分前缀 an 不再分开，而是和 schaust 合在一起，放在句尾。\n\n3. anschauen 和 sehen 有什么区别？\n\nsehen：看见，强调视觉感知。\n\nanschauen：看着、注视，强调主动把目光放在某人或某物上。\n\n例如：\n\nIch sehe dich. — 我看见你了。\n\nIch schaue dich an. — 我正看着你。\n\n再来一句甜甜的：\n\nIch mag es, wenn du mich so anschaust.\n\n我喜欢你这样看着我的样子。❤️\n\n这里的 wenn 也引导从句，所以 anschaust 同样放在句尾。\n\n你可以顺便记住一个非常实用的搭配：jemanden anschauen（注视某人），这里用第四格 Akkusativ，所以是 mich，而不是 mir。"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ich habe etwas für dich mitgebracht.",
+      "zh": "我给你带了点东西。"
+    },
+    {
+      "term": "Ich höre dir doch zu.",
+      "zh": "我当然有认真听你说话呀。"
+    },
+    {
+      "term": "Die Bahn fällt aus.",
+      "zh": "电车停运了。"
+    },
+    {
+      "term": "Bist du sicher?",
+      "zh": "你确定吗？"
+    },
+    {
+      "term": "Darf ich näher kommen?",
+      "zh": "我可以靠近一点吗？"
+    },
+    {
+      "term": "Sag es noch einmal.",
+      "zh": "再说一遍嘛。"
+    }
+  ],
+  "unanchored": [
+    {
+      "term": "Die Bahn fällt aus.",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "Darf ich näher kommen?",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    }
+  ],
+  "supplementary": [
+    {
+      "source": "https://chatgpt.com/share/6aed181f-d680-83ed-88ea-6895534ae4fd",
+      "text": "anschaust 来自德语可分动词 anschauen，意思是「看、注视、观看」。\n\n1. 动词变位\n\nanschauen = an + schauen\n\n人称\n\n\t\n\n变位\n\n\n\n\nich\n\n\t\n\nschaue ... an\n\n\n\n\ndu\n\n\t\n\nschaust ... an\n\n\n\n\ner/sie/es\n\n\t\n\nschaut ... an\n\n\n\n\nwir\n\n\t\n\nschauen ... an\n\n例如：\n\nIch schaue dich an.\n我看着你。\n\nWarum schaust du mich an?\n你为什么看着我？\n\n2. 为什么故事里是 anschaust？\n\n原句：\n\nWeil ich wollte, dass du mich noch ein bisschen anschaust.\n\n因为我想让你再多看我一会儿。❤️\n\n这里有一个 B1 很重要的语法：\n\ndass 引导从句，变位动词放在句尾。\n\n对比一下：\n\n主句：Du schaust mich an.\n\ndass 从句：..., dass du mich anschaust.\n\n在从句里，可分前缀 an 不再分开，而是和 schaust 合在一起，放在句尾。\n\n3. anschauen 和 sehen 有什么区别？\n\nsehen：看见，强调视觉感知。\n\nanschauen：看着、注视，强调主动把目光放在某人或某物上。\n\n例如：\n\nIch sehe dich. — 我看见你了。\n\nIch schaue dich an. — 我正看着你。\n\n再来一句甜甜的：\n\nIch mag es, wenn du mich so anschaust.\n\n我喜欢你这样看着我的样子。❤️\n\n这里的 wenn 也引导从句，所以 anschaust 同样放在句尾。\n\n你可以顺便记住一个非常实用的搭配：jemanden anschauen（注视某人），这里用第四格 Akkusativ，所以是 mich，而不是 mir。"
+    }
+  ]
+}

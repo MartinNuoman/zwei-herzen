@@ -1,0 +1,166 @@
+{
+  "chapterId": "epilogue",
+  "source": "https://chatgpt.com/share/6aed1886-8790-83ed-8552-9a5940b1666a",
+  "vocabulary": [
+    {
+      "paragraph": 33,
+      "anchor": "vertraut",
+      "occurrence": 1,
+      "zh": "熟悉的、亲切的",
+      "term": "vertraut",
+      "en": "familiar"
+    },
+    {
+      "paragraph": 27,
+      "anchor": "verzweifelt",
+      "occurrence": 1,
+      "zh": "绝望地、焦急地",
+      "term": "verzweifelt",
+      "en": "desperately"
+    },
+    {
+      "paragraph": 28,
+      "anchor": "fluchen",
+      "occurrence": 1,
+      "zh": "咒骂、抱怨",
+      "term": "fluchen",
+      "en": "to swear / curse"
+    },
+    {
+      "paragraph": 31,
+      "anchor": "Versprechen",
+      "occurrence": 1,
+      "zh": "承诺",
+      "term": "das Versprechen",
+      "en": "promise"
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "📚 Unser letzter Wortschatz – Staffel 1\n\n今天我只挑出一些值得反复阅读的表达，不打断故事的结尾。\n\nDeutsch | English | 中文\ndie Pfütze | puddle | 水坑\nübergießen | to pour over | 浇到……上\nruinieren | to ruin | 毁坏\nretten | to save | 挽救\nsich verändern | to change | 发生改变\nmiteinander | with each other | 彼此、一起\nfüreinander | for each other | 为了彼此\nsich entscheiden | to decide | 做决定\ndas Schicksal | fate / destiny | 命运\nder Zufall | coincidence | 巧合\nvertraut | familiar | 熟悉的、亲切的\ngewöhnlich | ordinary | 普通的\nverzweifelt | desperately | 绝望地、焦急地\nfluchen | to swear / curse | 咒骂、抱怨\ndas Versprechen | promise | 承诺\n\n🌷 Drei Sätze zum Mitnehmen\n\n① „Ich möchte dich auch dann noch kennenlernen, wenn du dich verändert hast.“\n\nI still want to get to know you, even when you've changed.\n\n即使你已经改变，我仍然想继续了解你。\n\n② „Manche Dinge sind schön, gerade weil man sie nicht ganz verstehen kann.“\n\nSome things are beautiful precisely because we cannot fully understand them.\n\n有些事情之所以美好，恰恰是因为我们无法完全理解它们。\n\n③ „Jeden Tag danach haben wir uns wieder füreinander entschieden.“\n\nEvery day after that, we chose each other again.\n\n从那以后，每一天，我们都重新选择了彼此。"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "die Pfütze",
+      "en": "puddle",
+      "zh": "水坑"
+    },
+    {
+      "term": "übergießen",
+      "en": "to pour over",
+      "zh": "浇到……上"
+    },
+    {
+      "term": "ruinieren",
+      "en": "to ruin",
+      "zh": "毁坏"
+    },
+    {
+      "term": "retten",
+      "en": "to save",
+      "zh": "挽救"
+    },
+    {
+      "term": "sich verändern",
+      "en": "to change",
+      "zh": "发生改变"
+    },
+    {
+      "term": "miteinander",
+      "en": "with each other",
+      "zh": "彼此、一起"
+    },
+    {
+      "term": "füreinander",
+      "en": "for each other",
+      "zh": "为了彼此"
+    },
+    {
+      "term": "sich entscheiden",
+      "en": "to decide",
+      "zh": "做决定"
+    },
+    {
+      "term": "das Schicksal",
+      "en": "fate / destiny",
+      "zh": "命运"
+    },
+    {
+      "term": "der Zufall",
+      "en": "coincidence",
+      "zh": "巧合"
+    },
+    {
+      "term": "vertraut",
+      "en": "familiar",
+      "zh": "熟悉的、亲切的"
+    },
+    {
+      "term": "gewöhnlich",
+      "en": "ordinary",
+      "zh": "普通的"
+    },
+    {
+      "term": "verzweifelt",
+      "en": "desperately",
+      "zh": "绝望地、焦急地"
+    },
+    {
+      "term": "fluchen",
+      "en": "to swear / curse",
+      "zh": "咒骂、抱怨"
+    },
+    {
+      "term": "das Versprechen",
+      "en": "promise",
+      "zh": "承诺"
+    }
+  ],
+  "unanchored": [
+    {
+      "term": "die Pfütze",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "übergießen",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "ruinieren",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "retten",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "sich verändern",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "miteinander",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "füreinander",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "sich entscheiden",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "das Schicksal",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "der Zufall",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "gewöhnlich",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    }
+  ]
+}

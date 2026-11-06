@@ -1,0 +1,163 @@
+{
+  "chapterId": "09",
+  "source": "https://chatgpt.com/share/6aed1886-8790-83ed-8552-9a5940b1666a",
+  "vocabulary": [
+    {
+      "paragraph": 21,
+      "anchor": "Überraschung",
+      "occurrence": 1,
+      "zh": "惊喜",
+      "term": "die Überraschung",
+      "note": "überraschen = 使惊讶"
+    },
+    {
+      "paragraph": 12,
+      "anchor": "eigentlich",
+      "occurrence": 1,
+      "zh": "其实、本来",
+      "term": "eigentlich",
+      "note": "日常口语非常常见"
+    },
+    {
+      "paragraph": 32,
+      "anchor": "beleidigt",
+      "occurrence": 1,
+      "zh": "生气的、受冒犯的",
+      "term": "beleidigt",
+      "note": "Ich bin beleidigt!"
+    },
+    {
+      "paragraph": 28,
+      "anchor": "trotzdem",
+      "occurrence": 1,
+      "zh": "尽管如此、还是",
+      "term": "trotzdem",
+      "note": "Ich liebe dich trotzdem."
+    },
+    {
+      "paragraph": 65,
+      "anchor": "geheimnisvoll",
+      "occurrence": 1,
+      "zh": "神秘的",
+      "term": "geheimnisvoll",
+      "note": "Geheimnis = 秘密"
+    },
+    {
+      "paragraph": 67,
+      "anchor": "glücklich",
+      "occurrence": 1,
+      "zh": "幸福的、快乐的",
+      "term": "glücklich",
+      "note": "glücklich sein"
+    },
+    {
+      "paragraph": 106,
+      "anchor": "kaum",
+      "occurrence": 1,
+      "zh": "几乎不",
+      "term": "kaum",
+      "note": "Wir sehen uns kaum."
+    },
+    {
+      "paragraph": 145,
+      "anchor": "fühlst",
+      "occurrence": 1,
+      "zh": "感觉",
+      "term": "sich fühlen",
+      "note": "Ich fühle mich gut."
+    },
+    {
+      "paragraph": 137,
+      "anchor": "verbringen",
+      "occurrence": 1,
+      "zh": "度过（时间）",
+      "term": "verbringen",
+      "note": "Zeit zusammen verbringen"
+    },
+    {
+      "paragraph": 157,
+      "anchor": "flüstert",
+      "occurrence": 1,
+      "zh": "低声说、耳语",
+      "term": "flüstern",
+      "note": "Er flüstert."
+    }
+  ],
+  "grammar": [
+    {
+      "zh": "📚 今天值得记住的德语\n\n德语 | 中文 | 小提示\ndie Überraschung | 惊喜 | überraschen = 使惊讶\neigentlich | 其实、本来 | 日常口语非常常见\nvorhaben | 打算做 | Hast du etwas vor?\nbeleidigt | 生气的、受冒犯的 | Ich bin beleidigt!\ntrotzdem | 尽管如此、还是 | Ich liebe dich trotzdem.\ngeheimnisvoll | 神秘的 | Geheimnis = 秘密\nglücklich | 幸福的、快乐的 | glücklich sein\nsich etwas überlegen | 考虑、想出 | Ich überlege kurz.\nkaum | 几乎不 | Wir sehen uns kaum.\nsich fühlen | 感觉 | Ich fühle mich gut.\nverbringen | 度过（时间） | Zeit zusammen verbringen\nflüstern | 低声说、耳语 | Er flüstert.\n\n🌷 今天最重要的三个表达\n\n① „Hast du morgen schon etwas vor?“\n\n你明天已经有安排了吗？\n\n这里的 vorhaben 是可分动词：\n\nIch habe morgen nichts vor.\nWas hast du heute Abend vor?\nWir haben am Wochenende viel vor.\n\n② „Ich möchte, dass du dich bei mir zu Hause fühlst.“\n\n我希望你在我这里有家的感觉。\n\n这里出现了 B1 非常重要的 dass 从句。\n\n注意动词 fühlst 被放在句尾。\n\n③ „Wenn du möchtest, ist mein Zuhause auch dein Zuhause.“\n\n如果你愿意，我的家也是你的家。\n\n这里的 wenn 表示「如果」。\n\n结构是：\n\nWenn + 主语 + …… + 动词，动词 + 主语 + ……\n\n例如：\n\n„Wenn du Zeit hast, können wir zusammen kochen.“\n\n如果你有时间，我们可以一起做饭。"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "die Überraschung",
+      "zh": "惊喜",
+      "note": "überraschen = 使惊讶"
+    },
+    {
+      "term": "eigentlich",
+      "zh": "其实、本来",
+      "note": "日常口语非常常见"
+    },
+    {
+      "term": "vorhaben",
+      "zh": "打算做",
+      "note": "Hast du etwas vor?"
+    },
+    {
+      "term": "beleidigt",
+      "zh": "生气的、受冒犯的",
+      "note": "Ich bin beleidigt!"
+    },
+    {
+      "term": "trotzdem",
+      "zh": "尽管如此、还是",
+      "note": "Ich liebe dich trotzdem."
+    },
+    {
+      "term": "geheimnisvoll",
+      "zh": "神秘的",
+      "note": "Geheimnis = 秘密"
+    },
+    {
+      "term": "glücklich",
+      "zh": "幸福的、快乐的",
+      "note": "glücklich sein"
+    },
+    {
+      "term": "sich etwas überlegen",
+      "zh": "考虑、想出",
+      "note": "Ich überlege kurz."
+    },
+    {
+      "term": "kaum",
+      "zh": "几乎不",
+      "note": "Wir sehen uns kaum."
+    },
+    {
+      "term": "sich fühlen",
+      "zh": "感觉",
+      "note": "Ich fühle mich gut."
+    },
+    {
+      "term": "verbringen",
+      "zh": "度过（时间）",
+      "note": "Zeit zusammen verbringen"
+    },
+    {
+      "term": "flüstern",
+      "zh": "低声说、耳语",
+      "note": "Er flüstert."
+    }
+  ],
+  "unanchored": [
+    {
+      "term": "vorhaben",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    },
+    {
+      "term": "sich etwas überlegen",
+      "reason": "Supplied lemma or phrase has no exact story anchor; retained in glossary"
+    }
+  ]
+}
