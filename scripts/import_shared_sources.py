@@ -89,7 +89,7 @@ for cid,source_id,indices in [('04',2,[8]),('06',2,[11,12]),('08',1,[2]),('10',3
  annotation['supplementary']=[{'source':sources[source_id]['url'],'text':sources[source_id]['sections'][i]['text']} for i in indices]
  annotation['grammar'].extend({'zh':item['text']} for item in annotation['supplementary'])
  save(f'content/annotations/{cid}.json',annotation)
-save('content/manifest.json',manifest);save('content/formatting.json',formats);save('content/provenance.json',{'method':'Rendered source paragraphs, unchanged wording; story separated from learning notes, image search widgets, introductions and previews. No continuity edits.','chapters':provenance});save('Learning_Notes.json',{'chapters':allnotes})
+save('content/manifest.json',manifest);save('content/formatting.json',formats);save('content/provenance.json',{'method':'Rendered source paragraphs, unchanged wording; story separated from learning notes, image search widgets, introductions and previews. No continuity edits.','chapters':provenance});save('Learning_Notes.json',{'chapters':allnotes,'editorial':load('content/learning-editorial.json') if (R/'content/learning-editorial.json').exists() else None})
 (R/'Zwei_Herzen_Complete.txt').write_text('Zwei Herzen, ein Zuhause\nStaffel 1\n\n'+'\n\n'.join(complete))
 (R/'Season_01').mkdir(exist_ok=True)
 for p in (R/'content/season-01').glob('*.txt'):(R/'Season_01'/p.name).write_bytes(p.read_bytes())

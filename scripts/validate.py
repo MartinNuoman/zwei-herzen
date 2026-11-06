@@ -10,9 +10,9 @@ def read(path):
 def data(path):
     try:return json.loads(read(path))
     except ValueError as e:errors.append(f'{path.relative_to(ROOT)}: invalid JSON: {e}');return {}
-def check_annotations(path,text,cid):
+def check_annotations(path,text,cid,supplied=None):
     if not path.exists():missing.append(f'annotations: {cid}');return
-    d=data(path)
+    d=data(path) if supplied is None else supplied
     if d.get('chapterId')!=cid:errors.append(f'{path}: chapterId mismatch')
     ps=[p for p in re.split(r'\n[\t ]*\n',text.replace('\r\n','\n').replace('\r','\n')) if p.strip()]
     spans={}
@@ -53,6 +53,15 @@ for c in chapters:
     if p.is_file():check_annotations(ap,read(p),cid)
     elif ap.exists():errors.append(f'{cid}: annotations without manuscript')
     else:missing.append(f'annotations: {cid}')
+editorial_path=ROOT/'content/learning-editorial.json'
+if editorial_path.exists():
+    editorial=data(editorial_path)
+    for cid,entries in editorial.get('chapters',{}).items():
+        if cid not in expected:errors.append(f'unknown editorial chapter: {cid}');continue
+        text=read(ROOT/'content/season-01'/f'{cid}.txt')
+        check_annotations(editorial_path,text,cid,{'chapterId':cid,'vocabulary':entries})
+        for a in entries:
+            if a.get('origin')!='editorial':errors.append(f'{cid}: editorial origin label required')
 check_annotations(ROOT/'demo/annotations.json',read(ROOT/'demo/chapter.txt'),'demo')
 html=read(ROOT/'index.html')
 ids=re.findall(r'\bid="([^"]+)"',html)
