@@ -14,3 +14,9 @@ export function safeStorage(storage) {
 }
 export function adjacent(chapters,id,delta) { const index=chapters.findIndex(c=>c.id===id); return index < 0 ? null : chapters[index+delta]?.id ?? null; }
 export function clampProgress(value) { return Math.max(0,Math.min(1,Number(value)||0)); }
+
+// An explicit editorial chapter selection supersedes imported inline notes.
+// Imported notes remain available in the notes panel; demo retains its own cards.
+export function learningCards(chapterId, editorial, original = []) {
+  return Object.hasOwn(editorial || {}, chapterId) ? editorial[chapterId] : original;
+}
