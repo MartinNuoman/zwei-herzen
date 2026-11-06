@@ -12,3 +12,21 @@ test('canonical extraction matches source blocks verbatim when local archive is 
 import {learningCards} from '../core.js';
 test('editorial selections keep inline learning focused and retain demo fallback',()=>{const original=[{anchor:'old'}],focused=[{anchor:'new'}];assert.deepEqual(learningCards('01',{'01':focused},original),focused);assert.deepEqual(learningCards('01',{'01':[]},original),[]);assert.deepEqual(learningCards('demo',{'01':focused},original),original);});
 test('editorial cards have literal, nonoverlapping anchors and use original sentences',()=>{const editorial=JSON.parse(fs.readFileSync('content/learning-editorial.json'));const manifest=JSON.parse(fs.readFileSync('content/manifest.json'));assert.equal(Object.keys(editorial.chapters).length,13);let count=0;for(const c of manifest.chapters){const ps=paragraphs(fs.readFileSync('content/'+c.filename,'utf8'));const entries=learningCards(c.id,editorial.chapters);assert.ok(entries.length>=4&&entries.length<=9);count+=entries.length;for(const e of entries){assert.equal(e.origin,'editorial');assert.ok(e.zh&&e.en&&e.term);assert.equal(e.example,ps[e.paragraph-1].replace(/\n$/,''));if(e.kind==='noun')assert.match(e.term,/^(der|die|das) /);assert.equal(annotationRanges(ps[e.paragraph-1],[e],e.paragraph).length,1);}let renderedCount=0;ps.forEach((p,i)=>{let out='',cursor=0;const ranges=annotationRanges(p,entries,i+1);renderedCount+=ranges.length;for(const r of ranges){out+=p.slice(cursor,r.start)+r.entry.anchor;cursor=r.end;}assert.equal(out+p.slice(cursor),p);});assert.equal(renderedCount,entries.length,'no word card should be dropped due to overlaps');}assert.equal(count,82);});
+
+import {readingAnchor,needsReadingCue} from '../core.js';
+test('reading anchor tracks the visible paragraph and retains its exact screen offset',()=>{
+ const rects=[{top:-140,bottom:-60},{top:-20,bottom:90},{top:110,bottom:260},{top:280,bottom:360}];
+ assert.deepEqual(readingAnchor(rects,150,600),{index:2,top:110});
+ assert.deepEqual(readingAnchor(rects,95,600),{index:1,top:-20});
+ assert.equal(readingAnchor([{top:700,bottom:900}],150,600),null);
+ assert.equal(readingAnchor([{top:-200,bottom:-20}],150,600),null);
+ assert.equal(readingAnchor([],150,600),null);
+ assert.deepEqual(readingAnchor([{top:-300,bottom:500}],150,600),{index:0,top:-300});
+});
+test('reading cue is one-way and requires an actual visible reading location',()=>{
+ const anchor={index:0,top:210};
+ assert.equal(needsReadingCue('normal','learning',anchor),true);
+ assert.equal(needsReadingCue('learning','normal',anchor),false);
+ assert.equal(needsReadingCue('learning','learning',anchor),false);
+ assert.equal(needsReadingCue('normal','learning',null),false);
+});
