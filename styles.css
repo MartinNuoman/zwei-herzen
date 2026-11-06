@@ -3,3 +3,12 @@
 #story p.story-heading{font:500 22px/1.5 Georgia,serif;color:var(--accent);margin:2em 0 1em}#story p.story-quote{padding-left:20px;border-left:2px solid var(--line)}#grammar p{white-space:pre-wrap;overflow-wrap:anywhere}#grammar details{margin:12px 0}#grammar summary{cursor:pointer;color:var(--accent);padding:8px 0}
 
 .card-origin{font-size:11px;letter-spacing:.4px;color:var(--accent);margin:12px 0 0}#definition-title{font-size:23px;line-height:1.5;overflow-wrap:anywhere}#definition-gloss{line-height:1.9}
+
+/* Keep the mode switch reachable while reading; clip does not create a scroll container. */
+.reader{overflow:visible;overflow:clip;overflow-anchor:none}
+.reader-toolbar{position:sticky;top:0;z-index:5;background:var(--paper);border-radius:11px 11px 0 0;border-bottom:1px solid var(--line)}
+#story > p{scroll-margin-top:100px}
+#story > p.reading-location{background:var(--soft);box-shadow:-4px 0 0 var(--accent);outline-offset:5px;border-radius:3px}
+#reading-status{position:fixed;z-index:8;bottom:max(20px,env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);width:max-content;max-width:calc(100% - 32px);margin:0;padding:12px 18px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);box-shadow:0 3px 18px #00000018;font-size:12px;line-height:1.7;pointer-events:none}
+#reading-status:empty{visibility:hidden}
+@media(max-width:640px){.reader-toolbar{padding:12px 17px}#reading-status{font-size:11px;padding:10px 14px}}

@@ -20,3 +20,19 @@ export function clampProgress(value) { return Math.max(0,Math.min(1,Number(value
 export function learningCards(chapterId, editorial, original = []) {
   return Object.hasOwn(editorial || {}, chapterId) ? editorial[chapterId] : original;
 }
+
+// Select the paragraph nearest the reading line, but never jump into an offscreen story.
+export function readingAnchor(rects, readingLine, viewportHeight) {
+  const visible = rects.map((rect, index) => ({...rect, index}))
+    .filter(rect => Number.isFinite(rect.top) && Number.isFinite(rect.bottom)
+      && rect.bottom > 0 && rect.top < viewportHeight);
+  if (!visible.length) return null;
+  const distance = rect => readingLine < rect.top ? rect.top - readingLine
+    : readingLine > rect.bottom ? readingLine - rect.bottom : 0;
+  const chosen = visible.reduce((best, rect) => distance(rect) < distance(best) ? rect : best);
+  return {index: chosen.index, top: chosen.top};
+}
+
+export function needsReadingCue(previousMode, nextMode, anchor) {
+  return previousMode === 'normal' && nextMode === 'learning' && anchor !== null;
+}

@@ -64,3 +64,7 @@ python3 scripts/validate.py --strict
 本地 `scripts/import_shared_sources.py` 可从已归档的渲染块重现导入；需要本机 `source-archive/` 证据文件，这些文件不随公开发布包分发。普通阅读、校验和测试不需要此目录。
 
 更新本站词卡后运行 `python3 scripts/build_editorial_cards.py`、`npm test`、`python3 scripts/validate.py --strict`。`python3 scripts/build_release.py` 同步学习笔记导出并重新生成完整发布包。
+
+## 阅读模式切换定位
+
+阅读工具栏随正文停留在屏幕顶部，无需回到章首切换模式。普通阅读切到互动学习时，以可视区域阅读线附近的段落作为锚点，保持它在屏幕上的相对位置，短暂高亮 5 秒并提示“已定位到刚才阅读的段落”。反向切换同样保持位置，但不重复高亮或提示。尚未进入正文时不触发定位跳转。键盘切换时将焦点交给定位段落，下一次 Tab 可继续进入附近的词卡；鼠标或触屏不会被强行移走焦点。不会自动弹出词卡，不滚动动画，也不改动正文。切章、再次切换或提示到时会清除高亮。
